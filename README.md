@@ -46,7 +46,9 @@ Performed end-to-end QA testing of the HexaHome real estate platform to evaluate
 - Performance-Testing
 - SEO-Testing
 - Mobile-Testing
+- Screenshots
 - Reports
+- README.md
 
 ## Outcome
 
